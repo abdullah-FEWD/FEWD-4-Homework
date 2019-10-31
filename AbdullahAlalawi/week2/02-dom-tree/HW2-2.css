@@ -1,0 +1,118 @@
+body{
+    background: rgb(216, 216, 216);
+    border: 1px solid black;
+
+}
+.headr{
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+.logo{
+    float: center;
+    display: flex;
+    text-align: center;
+    justify-self: auto;
+    height: 50px;
+    width:150px ;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-left:10px;
+    margin-top:10px ;
+    border: 5px solid black;
+    justify-content: center;
+    font-size: 40px;
+    font-display: center;
+    
+
+
+}
+.login ul{
+  display: inline-flex;
+  list-style-type: none;
+  padding: 0;
+  direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 30px;
+  align-items: center;
+  font-display: center;
+  padding: 30px;
+}
+
+.body1{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 20px;
+    font-display: center;
+}
+.body2{
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.body2{
+    text-align: center;
+    flex-direction:column;
+    direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 50px;
+}
+.body2 ul{
+  list-style-type: none;
+  padding: 40px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 50;
+  align-items: center;
+  font-display: center;
+  display: flex;
+  text-align: center;
+}
+.nav{
+    display: flex;
+    
+    flex-direction:column;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+  flex-wrap: wrap;
+
+}
+.nav1{
+    margin-left:50px;
+    background: whitesmoke;
+    padding: 50px;
+    border: 1px solid black; 
+}
+.nav2{
+    margin-right: 0px;
+    background: whitesmoke;
+    padding: 50px;
+    border: 1px solid black; 
+} 
+.nav3{
+    margin-right: 60px;
+    background: whitesmoke;
+    padding: 50px;
+    border: 1px solid black; 
+}   
+.body3{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 20px;
+    font-display: center;
+}
+.footer{
+
+    text-align: right;
+}

@@ -1,0 +1,141 @@
+body{
+    background-color: azure;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+.San{
+  background-image : url('img/san-francisco.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width:200px;
+  height:200px;
+  padding:100px;
+  margin: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: white;
+  font-size: 35px;
+
+}
+.New{
+  background-image: url('img/new-york.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 200px;
+  height: 200px;
+  padding: 100px;
+  margin: 10px;
+  color: white;
+  font-size: 35px;
+
+}
+.London{
+  background-image: url('img/london.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 200px;
+  height: 200px;
+  padding: 100px;
+  margin: 10px;
+  color: white;
+  font-size: 35px;
+}
+.button{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  font-size: 30px;
+}
+.subbutton{
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  width: 400px;
+  height: 1px;
+  margin-right: 10px;
+  background: 100px;
+  padding: 50px;
+  background-color: white;
+  border: 1px solid black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+.Napa{
+  background-image : url('img/napa.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 200px;
+  height: 200px;
+  padding: 100px;
+  margin: 10px;
+  color: white;
+  font-size: 35px;
+
+}
+.Sonoma{
+  background-image: url('img/sonoma.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 200px;
+  height: 200px;
+  padding: 100px;
+  margin: 10px;
+  color: white;
+  font-size: 35px;
+
+}
+.san{
+  background-image: url('img/SF2.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 200px;
+  height: 200px;
+  padding: 100px;
+  margin: 10px;
+  color: white;
+  font-size: 35px;
+}
+.button2{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  width: 400px;
+  height: 2px;
+  margin-top: 80px;
+ margin-bottom: 50px;
+ margin-right: 150px;
+ margin-left: 820px;
+  padding: 50px;
+  margin-right: 20px;
+  background: 100px;
+  background-color: white;
+  border: 1px solid black;
+  font-size: 30px;
+
+   
+}

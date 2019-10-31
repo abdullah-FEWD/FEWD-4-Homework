@@ -1,0 +1,147 @@
+.body{
+    background-color: azure;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    justify-items: center;
+
+
+}
+
+
+.content1{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+
+
+
+}
+.San{
+  background-image : url('img/san-francisco.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width:300px;
+  height:210px;
+  padding:100px;
+  margin: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: white;
+  font-size: 50px;
+
+}
+.New{
+  background-image: url('img/new-york.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 300px;
+  height: 210px;
+  padding: 100px;
+  margin: 10px;
+  color: white;
+  font-size: 50px;
+
+}
+.Lon{
+  background-image: url('img/london.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 300px;
+  height: 210px;
+  padding: 100px;
+  margin: 10px;
+  color: white;
+  font-size: 50px;
+}
+.button{
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+.subbutton{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    width: 200px;
+    height: 2px;
+    padding: 50px;
+    background: 100px;
+    background-color: white;
+    border: 1px solid black;
+    font-size: 30px;
+    margin: 0px;
+}
+.Napa{
+  background-image : url('img/napa.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width:100px;
+  height:100px;
+  padding:100px;
+  margin: 10px;
+  color: white;
+  font-size: 50px;
+
+}
+.Son{
+  background-image : url('img/sonoma.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 100px;
+  height: 100px;
+  padding: 100px;
+  margin: 10px;
+  color: white;
+  font-size: 50px;
+
+}
+.SAN{
+  background-image: url('img/SF2.jpg');
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 50px;
+  height: 50px;
+  padding: 50px;
+  margin: 10px;
+  color: white;
+  font-size: 50px;
+}
+.button2{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  width: 10000px;
+  height: 2px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 820px;
+  padding: 50px;
+  margin-right: 20px;
+  background: 100px;
+  background-color: white;
+  border: 1px solid black;
+  font-size: 30px;
+
+   
+}
