@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(209, 207, 181, 0.897);
+}
+.HW4{
+    display: grid;
+    grid-column: auto;
+    grid-row: auto;
+    text-align: center;
+    margin-top: 250px;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin: auto;
+
+}
+input[type=number] {
+    width:13%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: content-box;;
+    border: none;
+    background-color: rgb(179, 196, 189);
+    color: white;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+
+input[type=number] {
+        background-color: rgba(149, 184, 172, 0.575);
+      }
+button{
+    width:5%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: content-box;
+    border:none;
+    background-color: #3CBC8D;
+    color: white;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+}
+button:focus{
+    background-color: rgba(149, 184, 172, 0.575);
+
+}
